@@ -35,7 +35,7 @@ pip3 install RPi.GPIO spidev pillow psutil
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/epaper-stats.git
+git clone https://github.com/SneezeGUI/epaper-stats.git
 cd epaper-stats
 ```
 
