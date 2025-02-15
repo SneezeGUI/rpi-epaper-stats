@@ -72,5 +72,3 @@ The script includes several configurable parameters in the `SystemMonitor` class
 - `UPDATE_INTERVAL`: Time between updates (in seconds)
 - `MAX_RETRY_ATTEMPTS`: Maximum number of retry attempts for failed updates
 - `RETRY_DELAY`: Delay between retry attempts (in seconds)
-
-## Project Structure
